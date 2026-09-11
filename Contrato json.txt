@@ -1,3 +1,17 @@
-Contrato Json es un documento donde definiremos las variables a usar
+Contrato Json es un documento donde definiremos las variables a usar y como se usaran para tenerlas igual.
 
-Variables a usar:
+----------SQL----------
+
++ Las tablas tienen nombres en plural y empiezan por mayuscula:
+    Usuarios, Tareas, Habitos, Materias
+    
++ Los espacios se reemplazan por un guion bajo "_":
+    Registros_Habitos, racha_actual, contrasena_usuario
+
++ Los nombres de las columnas van en minusculas acompañado del nombre de la tabla, 
+  con guion bajo como espacio y en singular:
+    nombre_tarea, apodo_usuario, id_habito, fecha_registro_habito
+
+
+----------Proyecto----------
+

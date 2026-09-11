@@ -3,3 +3,6 @@ Iniciar proyecto:
     .\venv\Scripts\activate
     python app.py
     
+Commits:
+    cd ..
+    
