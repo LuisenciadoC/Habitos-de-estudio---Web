@@ -1,0 +1,10 @@
+# Secretos y credenciales
+.env
+
+# Entorno virtual
+venv/
+env/
+
+# Archivos temporales que crea Python automáticamente
+__pycache__/
+*.pyc
