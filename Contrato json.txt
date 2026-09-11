@@ -1,0 +1,3 @@
+Contrato Json es un documento donde definiremos las variables a usar
+
+Variables a usar:

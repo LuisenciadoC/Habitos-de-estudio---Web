@@ -1,0 +1,5 @@
+Iniciar proyecto:
+    cd backend
+    .\venv\Scripts\activate
+    python app.py
+    
