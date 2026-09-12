@@ -18,6 +18,7 @@ Contrato Json es un documento donde definiremos las variables a usar y como se u
 + Modelo -> Se comunica con la base de datos.
 + Servicio -> El cerebro que valida.
 + Controlador -> Rutas web.
++ App.py -> Inicia todo.
 
 + Nombre de archivos .py con el nombre principal en plural y el tipo seguido de un guion bajo en singular:
     usuarios_model.py,
