@@ -14,4 +14,15 @@ Contrato Json es un documento donde definiremos las variables a usar y como se u
 
 
 ----------Proyecto----------
+----------Arquitectura de modulos----------
++ Modelo -> Se comunica con la base de datos.
++ Servicio -> El cerebro que valida.
++ Controlador -> Rutas web.
+
++ Nombre de archivos .py con el nombre principal en plural y el tipo seguido de un guion bajo en singular:
+    usuarios_model.py,
+
+----------Variables y funciones----------
++ Se toma el nombre de la columna omitiendo el nombre de la tabla por ejemplo:
+    apodo_usuario -> Se toma solo -> apodo
 
