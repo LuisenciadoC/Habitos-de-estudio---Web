@@ -1,7 +1,7 @@
-from flask import blueprint, request, jsonify
+from flask import Blueprint, request, jsonify
 from services.usuarios_service import procesar_usuario_nuevo
 
-usuarios_bp = blueprint('usuarios', __name__)
+usuarios_bp = Blueprint('usuarios', __name__)
 
 @usuarios_bp.route('/registro', methods = ['POST'])
 def registro():

@@ -2,6 +2,7 @@ Iniciar proyecto:
     cd backend
     .\venv\Scripts\activate
     python app.py
+    python backend/app.py
     
 Commits:
     cd ..
