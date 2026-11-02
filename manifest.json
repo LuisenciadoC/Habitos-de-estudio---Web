@@ -1,0 +1,16 @@
+{
+  "name": "Hábitos de Estudio",
+  "short_name": "Hábitos",
+  "description": "Organiza tus materias, tareas, flashcards y notas.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFF9EB",
+  "theme_color": "#5D0D18",
+  "lang": "es",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
